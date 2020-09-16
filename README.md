@@ -30,10 +30,7 @@ Here are some ideas to get you started:
 
 
 #### Deployment
-<-
-![GitHub](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-00c0b0?style=flat-square&logo=netlify&logoColor=ffffff)
-->
+
 #### OS
 ![CLI](http://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=ffffff)
 
